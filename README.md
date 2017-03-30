@@ -8,7 +8,7 @@ Installation Instructions
 Using [vim plugged](https://github.com/junegunn/vim-plug) you just need to add:
 
 ```
-Plug 'mtscout6/syntastic-local-stylelint.vim'
+Plug 'barraponto/syntastic-local-stylelint.vim'
 ```
 
 Inspired By
